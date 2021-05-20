@@ -45,4 +45,7 @@
   .border-right{
     border:0px;
   }
+  #details div{
+    height:auto;
+  
 }
